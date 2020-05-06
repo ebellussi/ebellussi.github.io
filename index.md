@@ -3,7 +3,7 @@ layout: page
 title: Elia Bellussi
 ---
 
-# What you'll find 
+## What you'll find 
 
 - [Education](#education)
 - [Experience](#experience)
