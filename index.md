@@ -7,7 +7,9 @@ title: Elia Bellussi
 
 - [Education](#education)
 - [Experience](#experience)
+- [Certifications](#certifications)
+- [Courses](#courses)
 - [Portfolio](#portfolio)
 - [Motivations](#motivations)
-- [Awards](#awards)
 - <a href="/pdf/Elia Bellussi.pdf" download>My CV (Resume)</a>
+
