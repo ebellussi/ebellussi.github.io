@@ -11,5 +11,3 @@ title: Elia Bellussi
 - [Courses](#courses)
 - [Portfolio](#portfolio)
 - [Motivations](#motivations)
-- <a href="/pdf/Elia Bellussi.pdf" download>My CV (Resume)</a>
-
