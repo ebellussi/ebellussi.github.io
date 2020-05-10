@@ -6,8 +6,8 @@
   <div class="collapse navbar-collapse mr-auto navbar-right" id="navbarColor01">
     <ul class="navbar-nav mr-auto">
       {% for item in site.data.pages.docs %}
-      <li class="nav-item {% if item.url == page.url %}active{% endif %}">
-        <a class="nav-link" href="{{ item.url }}">{{ item.title }}</a>
+      <li class="nav-item {% if item.url == page.url %}active{% endif %}>
+        <a class="nav-link" href="{{ item.url }}">{{ item.title }} - {{ page.url }}</a>
       </li>
       {% endfor %}
       <li class="nav-item">
