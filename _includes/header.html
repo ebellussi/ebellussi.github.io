@@ -9,6 +9,8 @@
         <li class="nav-item {% if item.url == page.url %}active{% endif %}">
           <a class="nav-link" href="{{ item.url }}">{{ item.title }}</a>
         </li>
+        <p>Item = {{ item.url }}</p>
+        <p>Page = {{ page.url }}</p>
       {% endfor %}
       <li class="nav-item">
         <a class="nav-link" target="_blank" href="/attachment/CV_EN_Elia_Bellussi.pdf">CV|Resume</a>
