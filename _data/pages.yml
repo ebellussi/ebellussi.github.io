@@ -1,9 +1,6 @@
 docs_list_title: Pages
 docs:
 
-- title: Home
-  url: home.html
-
 - title: Education
   url: education.html
 
