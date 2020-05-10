@@ -2,19 +2,19 @@ docs_list_title: Pages
 docs:
 
 - title: Education
-  url: education.html
+  url: /education.html
 
 - title: Experience
-  url: experience.html
+  url: /experience.html
 
 - title: Certifications
-  url: certifications.html
+  url: /certifications.html
 
 - title: Articles
-  url: articles.html
+  url: /articles.html
 
 - title: Presentations
-  url: presentations.html
+  url: /presentations.html
 
 - title: Motivation
-  url: motivation.html
+  url: /motivation.html
