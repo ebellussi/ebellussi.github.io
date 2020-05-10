@@ -9,12 +9,7 @@
 
     <div class="py-5">
       <div class="container page-content">
-          {% if page = "null" %}
-            {%- include main.html -%}
-          {% else if page = "education.html"}
-            {%- include education.html -%}
-          {% else if page = "experience.html"}
-              {%- include experience.html -%}
+          {{ content }}
       </div>
     </div>
 
