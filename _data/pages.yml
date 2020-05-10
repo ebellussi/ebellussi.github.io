@@ -1,23 +1,23 @@
 docs_list_title: Pages
 docs:
 
-- title: Main
-  url: main.html
+- title: Home
+  url: /_site/home.html
 
 - title: Education
-  url: education.html
+  url: /_site/education.html
 
 - title: Experience
-  url: experience.html
+  url: /_site/experience.html
 
 - title: Certifications
-  url: certifications.html
+  url: /_site/certifications.html
 
 - title: Articles
-  url: articles.html
+  url: /_site/articles.html
 
 - title: Presentations
-  url: presentations.html
+  url: /_site/presentations.html
 
 - title: Motivation
-  url: motivation.html
+  url: /_site/motivation.html
